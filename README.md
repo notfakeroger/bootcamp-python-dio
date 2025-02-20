@@ -7,9 +7,7 @@ Aqui, irei compartilhar todo o meu progresso durante o **Bootcamp da DIO em parc
 ## 🔗 Conecte-se comigo!  
 Caso queira trocar ideias ou entrar em contato, sinta-se à vontade para me chamar no **LinkedIn**, **e-mail** ou diretamente no **WhatsApp**. 
 
-<a href="https://linktr.ee/notfakeroger_?utm_source=linktree_profile_share&ltsid=f3dcc509-3d3d-4bca-a0b4-8969726321a3" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-</a>
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/notfakeroger_?utm_source=linktree_profile_share&ltsid=f3dcc509-3d3d-4bca-a0b4-8969726321a3)
 
 ---
 
