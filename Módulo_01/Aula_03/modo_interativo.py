@@ -1,0 +1,1 @@
+# Nessa aula, eu aprendi um pouco sobre o modo interativo utilizando o python no terminal.
