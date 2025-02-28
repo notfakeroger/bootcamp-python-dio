@@ -1,0 +1,1 @@
+Nessa aula, eu decidi fazer algo diferente de novo! Vou fazer um programa básico que mostrará o resultado das contas realizadas por operadores aritméticos com números escolhidos pelo usuário! Obs.: O programa só calcula números inteiros, pois o objetivo aqui é utilizar os operadores aritméticos em ação.
